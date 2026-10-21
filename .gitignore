@@ -1,0 +1,17 @@
+# PlatformIO / Arduino
+.pio/
+build/
+*.bin
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+# Node
+node_modules/
+# Secretos (claves LoRaWAN, token de Telegram)
+.env
+secrets.h
+# Sistema
+.DS_Store
+Thumbs.db
